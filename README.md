@@ -17,4 +17,4 @@
   - *Solution*: I resolved this by identifying and clicking the 'Editor Window ↗' button in the top right corner to revert to the traditional layout, then used the `Cmd+Shift+X` (or `Ctrl+Shift+X`) shortcut to access the marketplace.
 - **Issue 2: Tool Configuration Navigation**
   - *Problem*: Initially looked for the add-ons inside the internal 'Cursor Settings' panel, which did not feature the installation search bar.
-  - *Solution*: Closed the settings panel and navigated through the proper extension marketplace view to seamlessly install Claude Code and Codex.# cursor
+  - *Solution*: Closed the settings panel and navigated through the proper extension marketplace view to seamlessly install Claude Code and Codex.
