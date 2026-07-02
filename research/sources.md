@@ -18,3 +18,8 @@ Here is the curated list of experts who actively practice and share insights on 
    - **Video Link:** https://www.youtube.com/watch?v=kp5tuB99ByQ
    - **Date Analyzed:** July 2, 2026
    - **Annotation:** YouTube SEO KVS framework (Keyword → Video → SEO): keyword-first production, exact-match title relevance, comment-driven content gaps, and AI-assisted thumbnails. Note: pasted transcript is not Ahrefs' "SEO in the Age of AI" — replace when correct source is available.
+
+4. **Nathan Gotch**
+   - **Video Link:** https://www.youtube.com/watch?v=kMsVDnFphRA
+   - **Date Analyzed:** July 2, 2026
+   - **Annotation:** June 2026 spam update analysis: domain rank decoupled from AI citations; third-party brand mention density drives AI visibility; national/e-commerce citation attack workflows vs. local GBP/review/directory split (80–90% Google local pack for Google AI).
