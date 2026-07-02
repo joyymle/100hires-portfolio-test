@@ -13,3 +13,8 @@ Here is the curated list of experts who actively practice and share insights on 
    - **Video Link:** https://www.youtube.com/watch?v=ZzszJFXCDnQ
    - **Date Analyzed:** July 2, 2026
    - **Annotation:** Agency playbook for 2026 SEO: two-pillar strategy (traditional SEO + AI Search Optimization), dual-track expert/news content production, brand clarity for AI citations, and shifting metrics from impressions to conversions and branded search.
+
+3. **Youri van Hofwegen** *(filed as ahrefs.md — transcript attribution corrected)*
+   - **Video Link:** https://www.youtube.com/watch?v=kp5tuB99ByQ
+   - **Date Analyzed:** July 2, 2026
+   - **Annotation:** YouTube SEO KVS framework (Keyword → Video → SEO): keyword-first production, exact-match title relevance, comment-driven content gaps, and AI-assisted thumbnails. Note: pasted transcript is not Ahrefs' "SEO in the Age of AI" — replace when correct source is available.
