@@ -23,3 +23,8 @@ Here is the curated list of experts who actively practice and share insights on 
    - **Video Link:** https://www.youtube.com/watch?v=kMsVDnFphRA
    - **Date Analyzed:** July 2, 2026
    - **Annotation:** June 2026 spam update analysis: domain rank decoupled from AI citations; third-party brand mention density drives AI visibility; national/e-commerce citation attack workflows vs. local GBP/review/directory split (80–90% Google local pack for Google AI).
+
+5. **Matt Kenyon (Surfer Academy)**
+   - **Video Link:** https://www.youtube.com/watch?v=QL_fgTOS4pI
+   - **Date Analyzed:** July 2, 2026
+   - **Annotation:** Keyword-to-publish writing framework (Step 0–5): search intent gate, 70/30 outline rule, dual Content Score (SEO + AI Search), entities vs. facts optimization, BLUF/ readability fundamentals, and internal linking QA before publish.
