@@ -8,3 +8,8 @@ Here is the curated list of experts who actively practice and share insights on 
    - **Video Link:** https://www.youtube.com/watch?v=_qAjPM8874k
    - **Date Analyzed:** July 2, 2026
    - **Annotation:** Demonstrates how to build a modular "Agent OS" using Claude workflows to automate the entire SEO pipeline from GSC research to API-based publishing and indexing.
+
+2. **Exposure Ninja (Tim Cameron-Kitchen)**
+   - **Video Link:** https://www.youtube.com/watch?v=ZzszJFXCDnQ
+   - **Date Analyzed:** July 2, 2026
+   - **Annotation:** Agency playbook for 2026 SEO: two-pillar strategy (traditional SEO + AI Search Optimization), dual-track expert/news content production, brand clarity for AI citations, and shifting metrics from impressions to conversions and branded search.
