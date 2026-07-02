@@ -19,9 +19,9 @@
   - *Problem*: Initially looked for the add-ons inside the internal 'Cursor Settings' panel, which did not feature the installation search bar.
   - *Solution*: Closed the settings panel and navigated through the proper extension marketplace view to seamlessly install Claude Code and Codex.
 
+---
 
-
-  ## 📺 Phase 1: YouTube Research Architecture & Expert Selection
+## 📺 Phase 1: YouTube Research Architecture & Expert Selection
 
 In this phase, we extracted, analyzed, and synthesized raw transcripts from 5 industry-leading SEO experts to build a definitive **2026 AI-Powered SEO Playbook**. Instead of chasing generic advice, these experts were meticulously chosen to represent a specific layer of the modern SEO stack, moving from high-level agency strategy to granular automated workflows.
 
@@ -52,7 +52,7 @@ We structured our expert selection to build a cohesive, non-overlapping framewor
 ### Curated Registry (Sources Tracked)
 
 *   **Julian Goldie** | [Analyze Video](https://www.youtube.com/watch?v=_qAjPM8874k) *(Analyzed: July 2, 2026)*
-    *   *Insight:* Built a automated pipeline using Claude workflows from GSC data directly to API-based publishing and rapid indexing.
+    *   *Insight:* Built an automated pipeline using Claude workflows from GSC data directly to API-based publishing and rapid indexing.
 *   **Exposure Ninja (Tim Cameron-Kitchen)** | [Analyze Video](https://www.youtube.com/watch?v=ZzszJFXCDnQ) *(Analyzed: July 2, 2026)*
     *   *Insight:* Outlined an agency playbook for 2026 SEO balancing traditional technical health with AI Search Optimization (AISO).
 *   **Youri van Hofwegen** | [Analyze Video](https://www.youtube.com/watch?v=kp5tuB99ByQ) *(Analyzed: July 2, 2026)*
