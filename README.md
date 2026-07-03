@@ -61,3 +61,46 @@ We structured our expert selection to build a cohesive, non-overlapping framewor
     *   *Insight:* Demonstrated how winning in 2026 requires third-party brand mention density rather than just tracking self-serving domain rankings.
 *   **Matt Kenyon (Surfer Academy)** | [Analyze Video](https://www.youtube.com/watch?v=QL_fgTOS4pI) *(Analyzed: July 2, 2026)*
     *   *Insight:* Delivered a repeatable content engine that splits optimization into Google readiness (Entities) and LLM citation readiness (Facts).
+
+---
+
+## 💼 Phase 2: LinkedIn Research Architecture & Expert Selection
+
+In this phase, we expanded the **2026 AI-Powered SEO Playbook** into live field operations, growth experiments, and non-Google environments by analyzing 5 prominent enterprise and automation architects from LinkedIn. This layer bridges the gap between algorithmic theory and real-world executive execution.
+
+### Why We Chose These Experts
+
+We structured this phase to provide an unshakeable operational workflow covering programmatic scalability, enterprise survival, algorithmic data-defense, and conversational system placement:
+
+1. **Scalability & Content Automation Engine (Jake Ward)**: To deploy modern Programmatic SEO engines that utilize strict schema-driven parameters rather than risky freeform AI loops.
+2. **Macro Enterprise Strategy & SGE Adjustment (Kevin Indig)**: To navigate macro traffic changes and establish methods (such as the BLUF framework) for corporate brand visibility preservation.
+3. **Algorithmic Vetting & Security Safeguards (Lily Ray)**: To construct defensive content gates utilizing advanced `SameAs` semantic schema and Information Gain metrics to survive strict Core Update metrics.
+4. **User Engagement Diagnostics & Patent Alignment (Cyrus Shepard)**: To calibrate conversion and interactive elements based on leaked ranking algorithms and user interaction success loops.
+5. **Generative Engine Authority & Recommendation Maps (Alesia Krush)**: To break completely free from standard web indexing constraints and secure active citation attribution inside ChatGPT, Perplexity, and Gemini networks.
+
+---
+
+### Captured Insights Summary (LinkedIn Phase)
+
+| Expert | Core Focus / 2026 Framework | Strategic Utility in Playbook |
+| :--- | :--- | :--- |
+| **Jake Ward** | Schema-Driven Programmatic Engine (Gemini Flash) | **Scale:** Generates 10,000+ targeted long-tail variation structures safely under 3 hours without AI hallucinations. |
+| **Kevin Indig** | Market Share of Voice & Enterprise BLUF Architecture | **Enterprise:** Counters zero-click SERP declines by prioritizing clear attribution and upfront primary text summaries. |
+| **Lily Ray** | Verifiable Entity Footprints & Information Gain Filters | **E-E-A-T Defense:** Protects domains against Core Updates via real human expertise verification and unique data parameters. |
+| **Cyrus Shepard** | Navigational Success Signals & Implicit Entity Links | **User Experience:** Positions the site as the definitive final stop in the user query loop based on modern ranking patents. |
+| **Alesia Krush** | Generative Engine Optimization (GEO) Alignment | **AEO/GEO Lane:** Formats brand datasets to act as premium trusted seeds for LLM recommendations and interactive chat answers. |
+
+---
+
+### Curated Registry (Sources Tracked - LinkedIn Phase)
+
+*   **Jake Ward** | [Research Profile](https://jakeward.io/) *(Analyzed: July 3, 2026)*
+    *   *Insight:* Transitioned automation from freeform generation to deterministic JSON-mapped layouts designed to trap LLM citations.
+*   **Kevin Indig** | [Research Profile](https://www.kevin-indig.com/) *(Analyzed: July 3, 2026)*
+    *   *Insight:* Addressed enterprise traffic drops by deploying structured organization schema and top-of-page informational nodes.
+*   **Lily Ray** | [Research Profile](https://www.lilyray.seo/) *(Analyzed: July 3, 2026)*
+    *   *Insight:* Replaced standard writer bio blocks with verifiable `SameAs` entity data maps connected directly to the Knowledge Graph.
+*   **Cyrus Shepard** | [Research Profile](https://zyppy.com/) *(Analyzed: July 3, 2026)*
+    *   *Insight:* Proved that user effort metrics and implicit, unlinked brand associations serve as ultimate verification signals for AI algorithms.
+*   **Alesia Krush** | [Research Profile](https://www.linkedin.com/in/alesia-krush/) *(Analyzed: July 3, 2026)*
+    *   *Insight:* Designed direct natural language blueprints to capture share-of-voice recommendations inside ChatGPT, Perplexity, and Gemini loops.
