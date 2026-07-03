@@ -55,3 +55,9 @@ Here is the curated list of experts who actively practice and share insights on 
    - **LinkedIn Context:** Patent Analysis & User Interaction Signal Systems (June 2026)
    - **Date Analyzed:** July 3, 2026
    - **Annotation:** Documented Cyrus Shepard’s mid-2026 framework on user interaction dynamics. Focuses on optimizing for search session termination, refining authentic CTR indicators to navigate leaked algorithmic ranking factors, and capitalizing on implicit unlinked brand entity footprints.
+
+5. **Alesia Krush**
+   - **Profile/Source Link:** https://www.linkedin.com/in/alesia-krush/ (GEO & LLM Research Insights)
+   - **LinkedIn Context:** Generative Engine Optimization (GEO) Alignment & AI Citation Frameworks (July 2026)
+   - **Date Analyzed:** July 3, 2026
+   - **Annotation:** Synthesized Alesia Krush’s mid-2026 blueprints for non-Google search dominance. Establishes SOPs for LLM pattern matching, conversational syntax layout alignment, and strategic data structuring to secure premium clickable source citations inside ChatGPT, Perplexity, and Gemini response ecosystems.
