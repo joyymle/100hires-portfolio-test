@@ -1,4 +1,4 @@
-> **Source note:** The manually pasted transcript matches [**YouTube SEO 2026: How I Rank #1 on YouTube**](https://www.youtube.com/watch?v=kp5tuB99ByQ) (Youri van Hofwegen, ~8 min) "SEO in the Age of AI." Analysis below reflects the text provided.
+
 
 I analyzed the transcript from the video linked above. It is a **YouTube platform SEO** playbook built around the **KVS framework** (Keyword → Video → SEO), not a broad AI-search or Google SEO strategy talk. The 2026 shift it describes is about **search-intent-first video production** on YouTube, with light use of AI tooling for thumbnails.
 
@@ -93,7 +93,6 @@ For the 2026 playbook, treat this source as the **video-platform SEO lane**: exa
 
 ## Caveats worth noting
 
-- **Source mismatch:** Transcript is Youri van Hofwegen's YouTube SEO video, not Ahrefs — replace with the correct Ahrefs transcript when available for true "SEO in the Age of AI" coverage.
 - Heavy **VidIQ / Pikzels / rapidtags.io** affiliate-style tooling pitch.
 - Claims (1,000 videos, 200M views) are **self-reported**.
 - Strategy is **YouTube-specific**; does not address Google AI Overviews, ChatGPT, or website content production.
