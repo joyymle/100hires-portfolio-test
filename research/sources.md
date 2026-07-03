@@ -28,3 +28,12 @@ Here is the curated list of experts who actively practice and share insights on 
    - **Video Link:** https://www.youtube.com/watch?v=QL_fgTOS4pI
    - **Date Analyzed:** July 2, 2026
    - **Annotation:** Keyword-to-publish writing framework (Step 0–5): search intent gate, 70/30 outline rule, dual Content Score (SEO + AI Search), entities vs. facts optimization, BLUF/ readability fundamentals, and internal linking QA before publish.
+
+-----
+## LinkedIn Authors (Posts Analyzed)
+
+### Jake Ward
+- **Profile/Source Link:** https://jakeward.io/ (Byword.ai Core Programmatic Framework)
+- **AEO Podcast/LinkedIn Context:** https://aeoengine.ai/podcast (EP 148 - Integrated AEO/GEO Tactics, June 2026)
+- **Date Analyzed:** July 3, 2026
+- **Annotation:** Synthesized Jake Ward’s mid-2026 structural pivot on LinkedIn following Google's May/June 2026 Spam updates. Highlights his 13,000-page Schema-Driven Programmatic Engine using Gemini Flash, designed specifically for Semantic Completeness and capturing LLM citations (ChatGPT/Perplexity) via zero-click machine-readable primary answers.
