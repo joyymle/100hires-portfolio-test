@@ -49,3 +49,9 @@ Here is the curated list of experts who actively practice and share insights on 
    - **LinkedIn Context:** Core Update Volatility & E-E-A-T Enforcement Frameworks (June/July 2026)
    - **Date Analyzed:** July 3, 2026
    - **Annotation:** Synthesized Lily Ray’s mid-2026 tactical blueprints for combating algorithmic volatility. Focuses on hard entity verification via advanced `SameAs` Schema, the strict deployment of "Information Gain" parameters, and shifting author validation away from simple bio text to verified Knowledge Graph footprints.   
+
+4. **Cyrus Shepard**
+   - **Profile/Source Link:** https://zyppy.com/ (Zyppy Search Data Lab)
+   - **LinkedIn Context:** Patent Analysis & User Interaction Signal Systems (June 2026)
+   - **Date Analyzed:** July 3, 2026
+   - **Annotation:** Documented Cyrus Shepard’s mid-2026 framework on user interaction dynamics. Focuses on optimizing for search session termination, refining authentic CTR indicators to navigate leaked algorithmic ranking factors, and capitalizing on implicit unlinked brand entity footprints.
