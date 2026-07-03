@@ -32,8 +32,14 @@ Here is the curated list of experts who actively practice and share insights on 
 -----
 ## LinkedIn Authors (Posts Analyzed)
 
-### Jake Ward
-- **Profile/Source Link:** https://jakeward.io/ (Byword.ai Core Programmatic Framework)
-- **AEO Podcast/LinkedIn Context:** https://aeoengine.ai/podcast (EP 148 - Integrated AEO/GEO Tactics, June 2026)
-- **Date Analyzed:** July 3, 2026
-- **Annotation:** Synthesized Jake Ward’s mid-2026 structural pivot on LinkedIn following Google's May/June 2026 Spam updates. Highlights his 13,000-page Schema-Driven Programmatic Engine using Gemini Flash, designed specifically for Semantic Completeness and capturing LLM citations (ChatGPT/Perplexity) via zero-click machine-readable primary answers.
+1. **Jake Ward**
+   - **Profile/Source Link:** https://jakeward.io/ (Byword.ai Core Programmatic Framework)
+   - **AEO Podcast/LinkedIn Context:** https://aeoengine.ai/podcast (EP 148 - Integrated AEO/GEO Tactics, June 2026)
+   - **Date Analyzed:** July 3, 2026
+   - **Annotation:** Synthesized Jake Ward’s mid-2026 structural pivot on LinkedIn following Google's May/June 2026 Spam updates. Highlights his 13,000-page Schema-Driven Programmatic Engine using Gemini Flash, designed specifically for Semantic Completeness and capturing LLM citations (ChatGPT/Perplexity) via zero-click machine-readable primary answers.
+
+2. **Kevin Indig**
+   - **Profile/Source Link:** https://www.kevin-indig.com/ (Growth Memo & Enterprise Strategy)
+   - **LinkedIn Context:** Industry Analysis on Zero-Click Search & AI Overviews Impact (June 2026)
+   - **Date Analyzed:** July 3, 2026
+   - **Annotation:** Analyzed Kevin Indig's enterprise framework for stabilizing a brand’s organic "Market Share of Voice" amidst rising SGE traffic inflation. Outlines the practical integration of Bottom Line Up Front (BLUF) layouts and structured data entities to secure direct source attribution inside Google Gemini and Perplexity response nodes.
