@@ -1,4 +1,21 @@
-# 100Hires Portfolio Project - Stage 1
+# 100Hires Portfolio Project - Stage 1 (AI-Powered SEO Content Production)
+
+Welcome to my portfolio project for 100Hires. This repository contains a complete research project and execution playbook on **AI-Powered SEO Content Production**, built by analyzing 10 industry-leading SEO experts across YouTube and LinkedIn.
+
+## 🎯 Quick Links & Deliverables
+
+*   👉 **[The Final Playbook (PLAYBOOK.md)](./PLAYBOOK.md)**: The core deliverable containing the step-by-step SOP, expert conflicts, rejected ideas, and analysis.
+*   👉 **[Master Sources List (sources.md)](./research/sources.md)**: The annotated directory of all 10 experts and links to their original content.
+
+### Repository Structure
+Following the project requirements, the repository is organized as follows:
+```text
+├── PLAYBOOK.md                  # The final SOP, conflict analysis, and strategic decisions
+├── README.md                    # Project methodology, tool setup, and expert selection rationale
+└── research/
+    ├── sources.md               # Annotated list of all sources and dates
+    ├── linkedin-posts/          # Raw data: LinkedIn posts organized by author
+    └── youtube-transcripts/     # Raw data: Transcripts organized by video
 
 ## Tools Installed
 - **Cursor IDE**: Successfully downloaded and configured as the primary editor window.
