@@ -9,7 +9,7 @@ Welcome to my portfolio project for 100Hires. This repository contains a complet
 
 ### Repository Structure
 Following the project requirements, the repository is organized as follows:
-```text
+
 ├── PLAYBOOK.md                  # The final SOP, conflict analysis, and strategic decisions
 ├── README.md                    # Project methodology, tool setup, and expert selection rationale
 └── research/
